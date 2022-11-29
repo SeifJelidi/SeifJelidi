@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seifjelidi" alt="seifjelidi" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/jelidseif" target="blank"><img src="https://img.shields.io/twitter/follow/jelidseif?logo=twitter&style=for-the-badge" alt="jelidseif" /></a> </p>
+<p align="left"> <a href="https://twitter.com/JelidiSeif" target="blank"><img src="https://img.shields.io/twitter/follow/jelidseif?logo=twitter&style=for-the-badge" alt="jelidseif" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter and Ionic**
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/JelidSeif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jelidseif" height="30" width="40" /></a>
+<a href="https://twitter.com/JelidiSeif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jelidseif" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seif-jelidi-67512022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-jelidi-67512022b/" height="30" width="40" /></a>
 <a href="https://instagram.com/seifjelidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seifjelidi" height="30" width="40" /></a>
 <a href="https://medium.com/@seifjelidi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@seifjelidi3" height="30" width="40" /></a>
